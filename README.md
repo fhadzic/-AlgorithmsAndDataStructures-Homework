@@ -1,4 +1,4 @@
-# -AlgorithmsAndDataStructures-Homework
+# AlgorithmsAndDataStructures-Homework
 
 Ferid Hadžić 17685
 
